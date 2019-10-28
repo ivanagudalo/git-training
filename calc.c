@@ -1,4 +1,6 @@
 // Function for multiplying two numbers
+//
+// Komentari 
 #include "calc.h"
 
 #include "stdio.h"
