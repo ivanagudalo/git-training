@@ -1,3 +1,4 @@
+// Function for multiplying two numbers
 #include "calc.h"
 
 #include "stdio.h"
